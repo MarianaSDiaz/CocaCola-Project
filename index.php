@@ -12,7 +12,7 @@
 		rel="stylesheet"
 		/>
 		<link rel="stylesheet" href="./css/normalize.css" />
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="./css/style.css" />
 		<link rel="stylesheet" href="./css/media.css" />
 		<script src="https://kit.fontawesome.com/04bfb0aab2.js" crossorigin="anonymous"></script>
 	</head>
@@ -231,7 +231,7 @@
 								<a href="#">3416141516</a>
 							</li>
 							<li>
-								<a href="#">Tucumán 1346, Rosario</a>
+								<a href="#">Calle 123, Rosario</a>
 							</li>
 						</ul>
 					</div>
