@@ -5,8 +5,8 @@ I used XAMPP to access the Apache Server to send an email from the "contáctenos
 
 ## This is how it looks
 
-![Laptop view](../CocaCola/img/CocaCola-landpage.png)
-![Mobile view](../CocaCola/img/CocaCola-landpage-mobile.png)
+![Laptop view](img/CocaCola-landpage.png)
+![Mobile view](img/CocaCola-landpage-mobile.png)
 ![Mobile menu view](img/CocaCola-landpage-mobile-menu.png)
 
 ### I want to thank Jacobo Amaru for helping me create this interesting project
