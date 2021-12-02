@@ -2,6 +2,7 @@
 
 This is the final project of the Training HappyDev course. It's a Coca Cola's  responsive landing page.
 I used XAMPP to access the Apache Server to send an email from the "contáctenos" form.
+Click [HERE](https://marianasdiaz.github.io/CocaCola-Project/) to see the project.
 
 ## To open the index.php
 
