@@ -27,7 +27,7 @@
     font-size: 40px;
     color: red;
   }
-  form .boton.boton-negro {
+  form .button.button-black {
     width: 100%;
   }
   footer {
@@ -36,19 +36,19 @@
   footer .logo-footer {
     width: 50%;
   }
-  footer .redes {
+  footer .networks {
     justify-content: center;
   }
   .container {
     width: 100%;
   }
-  .seccion {
+  .section {
     padding: 30px 0;
   }
-  .columna-mobile-100 {
+  .column-mobile-100 {
     width: 100%;
   }
-  .columna-mobile-50 {
+  .column-mobile-50 {
     width: 50%;
   }
   .empujar-mobile-0 {
@@ -57,21 +57,21 @@
   .sinpadding-mobile {
     padding: 0;
   }
-  #inicio {
+  #home {
     height: 100vh;
   }
-  #inicio img {
+  #home img {
     height: 100%;
     object-fit: cover;
     object-position: center;
   }
-  #servicios .bloque-servicio {
+  #services .block-service {
     margin-bottom: 15px;
   }
-  #contactenos {
+  #contactUs {
     padding: 0;
   }
-  #contactenos iframe {
+  #contactUs iframe {
     position: relative;
     height: 50vh;
   }

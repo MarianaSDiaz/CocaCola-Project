@@ -38,7 +38,7 @@ header .container .hamb {
   display: none;
   position: relative;
 }
-footer.seccion {
+footer.section {
   background-color: black;
   color: white;
   padding-bottom: 0;
@@ -67,41 +67,41 @@ footer ul li {
 footer a {
   color: white;
 }
-footer .redes {
+footer .networks {
   font-size: 30px;
   display: flex;
 }
-footer .redes a {
+footer .networks a {
   margin: 0 7.5px;
 }
-.boton {
+.button {
   text-align: center;
   text-decoration: none;
   padding: 15px 20px;
   border: none;
 }
-.boton.boton-rojo {
+.button.button-red {
   color: white;
   background-color: red;
   font-size: 20px;
   font-weight: bold;
 }
-.boton.boton-negro {
+.button.button-black {
   color: white;
   background-color: black;
   font-size: 16px;
   font-weight: bold;
   padding: 10px 15px;
 }
-.seccion {
+.section {
   padding: 60px 0;
 }
-.cuadrado-perfecto {
+.square-perfect {
   width: 100%;
   padding-bottom: 100%;
   position: relative;
 }
-.cuadrado-perfecto img {
+.square-perfect img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -126,41 +126,41 @@ footer .redes a {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
-.columna {
+.column {
   padding: 0 15px;
 }
-.columna-25 {
+.column-25 {
   width: 25%;
 }
-.columna-33 {
+.column-33 {
   width: 33.33%;
 }
-.columna-41 {
+.column-41 {
   width: 41.66%;
 }
-.columna-50 {
+.column-50 {
   width: 50%;
 }
-.empujar-50 {
+.push-50 {
   margin-left: 50%;
 }
-.empujar-58 {
+.push-58 {
   margin-left: 58.3%;
 }
-.empujar-66 {
+.push-66 {
   margin-left: 66.66%;
 }
-.empujar-0 {
+.push-0 {
   margin-left: 0;
 }
-#inicio {
+#home {
   position: relative;
 }
-#inicio img {
+#home img {
   width: 100%;
   display: block;
 }
-#inicio .bloque-inicio {
+#home .block-home {
   position: absolute;
   top: 40%;
   left: 50%;
@@ -168,43 +168,43 @@ footer .redes a {
   text-align: center;
   margin-left: -200px;
 }
-#inicio .bloque-inicio h1 {
+#home .block-home h1 {
   color: white;
   font-size: 35px;
 }
-#inicio .bloque-inicio p {
+#home .bloque-home p {
   color: white;
   font-size: 16px;
 }
-#nosotros {
+#aboutUs {
   background-image: url(../img/latas.jpg);
   background-size: cover;
 }
-#nosotros p {
+#aboutUs p {
   color: white;
   font-size: 16px;
   text-align: center;
   /* margin: 0; */
 }
 
-#servicios .bloque-servicio {
+#services .block-service {
   border: 1px solid gray;
 }
 
-#servicios .bloque-servicio .bloque-img-servicio img {
+#services .block-service .block-img-servicio img {
   width: 100%;
 }
-#servicios .bloque-servicio .bloque-img-servicio.cuadrado-perfecto {
+#services .block-service .block-img-service.square-perfect {
   padding-bottom: 56.25%;
 }
-.bloque-contenido-servicio {
+.block-content-service {
   padding: 15px;
 }
-.bloque-contenido-servicio h3 {
+.block-content-service h3 {
   margin-top: 0;
   font-size: 25px;
 }
-.boton.boton.boton-blanco {
+.button.button.button-white {
   background-color: white;
   color: red;
   font-size: 16px;
@@ -212,7 +212,7 @@ footer .redes a {
   border: 1px solid red;
 }
 
-#galeria h4 {
+#gallery h4 {
   padding-right: 15px;
   padding-left: 15px;
   text-align: center;
@@ -222,20 +222,20 @@ footer .redes a {
   font-size: 18px;
   width: 100%;
 }
-#galeria img {
+#gallery img {
   filter: grayscale(1);
 }
-#galeria .cuadrado-perfecto:hover img {
+#gallery .square-perfect:hover img {
   filter: grayscale(0);
 }
-#galeria .cuadrado-perfecto:hover h4 {
+#gallery .square-perfect:hover h4 {
   display: none;
 }
 
-#contactenos {
+#contactUs {
   position: relative;
 }
-#contactenos iframe {
+#contactUs iframe {
   position: absolute;
   top: 0;
   left: 0;
@@ -243,15 +243,15 @@ footer .redes a {
   height: 100%;
   filter: grayscale(1);
 }
-#contactenos form {
+#contactUs form {
   padding: 60px;
   background-color: red;
 }
-#contactenos form .form-block {
+#contactUs form .form-block {
   width: 100%;
   margin-bottom: 15px;
 }
-#contactenos form .form-block .form-control {
+#contactUs form .form-block .form-control {
   display: block;
   height: 40px;
   font-size: 16px;
@@ -259,7 +259,7 @@ footer .redes a {
   width: 100%;
   padding: 5px 10px;
 }
-#contactenos form .form-block textarea {
+#contactUs form .form-block textarea {
   display: block;
   height: 100px;
   font-size: 16px;
@@ -267,6 +267,6 @@ footer .redes a {
   width: 100%;
   padding: 5px 10px;
 }
-#contactenos form .form-block.bloque-ultimo {
+#contactUs form .form-block.block-last {
   margin-bottom: 0;
 }
